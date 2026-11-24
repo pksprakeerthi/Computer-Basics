@@ -1,0 +1,3 @@
+*.backup
+app.js.before-*
+.DS_Store
